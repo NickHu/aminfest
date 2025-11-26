@@ -26,12 +26,14 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y pandoc
 
       - name: Build HTML from index.md
-        run: pandoc -s index.md -o index.html
+        run: |
+          mkdir -p _site
+          pandoc -s index.md -o _site/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
 
   deploy:
     environment:
