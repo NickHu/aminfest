@@ -27,7 +27,9 @@ jobs:
       - name: Make output directory
         run: mkdir _site
       - name: Copy images
-        run: cp -r images _site/images
+        run: |
+          cp favicon.png _site/favicon.png
+          cp -r images _site/images
       - name: Build HTML with pandoc
         uses: docker://pandoc/core
         with:

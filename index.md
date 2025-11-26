@@ -6,6 +6,11 @@ css:
   ```{=html}
   https://cdn.jsdelivr.net/npm/water.css@2/out/water.css
   ```
+header-includes:
+- |
+  ```{=html}
+  <link rel="icon" type="image/png" href="favicon.png" />
+  ```
 ---
 **📅 Tuesday 2nd December 2025**  
 **📍 Venue:** Robert Hooke Building, Department of Computer Science, University of Oxford, UK
