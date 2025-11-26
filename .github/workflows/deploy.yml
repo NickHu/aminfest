@@ -24,6 +24,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Make output directory
+        run: mkdir _site
+      - name: Copy images
+        run: cp -r images _site/images
       - name: Build HTML with pandoc
         uses: docker://pandoc/core
         with:

@@ -15,6 +15,8 @@ css:
 ## 📝 About
 We are delighted to invite colleagues, friends, and collaborators to join us in celebrating **Amin’s 30th birthday** with a day of talks, discussions, and joyful academic shenanigans.
 
+![Amin doing what he does best](images/amin.jpg){ width=400px }
+
 The day will feature **short invited talks (15–30 mins)** by Amin’s friends, collaborators, and (co)admirers, interspersed with coffee breaks.  
 
 All are welcome — whether you know Amin, his research, or simply love cake 🍰.
