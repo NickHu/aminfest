@@ -82,7 +82,7 @@ Just turn up on the day, whenever you can make it! No registration fee.
 ## 👩‍💻 Organisers
 - [Zev Shirazi](https://www.cs.ox.ac.uk/people/zev.shirazi/), Department of Computer Science, University of Oxford
 - [Jack Liell-Cock](https://jackliellcock.com/), Department of Computer Science, University of Oxford
-- Katherine ???, ???, University of Oxford
+- [Katherine Tourigny](https://eng.ox.ac.uk/people/katherine-tourigny), Nuffield Department of Clinical Neurosciences, University of Oxford
 - [Jessica Richards](https://www.cs.ox.ac.uk/people/jessica.richards/), Department of Computer Science, University of Oxford
 - [Nick Hu](https://nickx.hu/), School of Computer Science, University of Birmingham
 - [Nihil Shah](https://www.cst.cam.ac.uk/people/nas54), Department of Computer Science and Technology, University of Cambridge
