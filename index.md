@@ -1,5 +1,5 @@
 ---
-title: "Aminfest – Workshop in Honour of Amin Karamlou’s 30th Birthday"
+title: "Aminfest – Workshop in Honour of [Amin Karamlou](https://aminkaramlou.github.io/)’s 30th Birthday"
 lang: "en"
 css:
 - |
