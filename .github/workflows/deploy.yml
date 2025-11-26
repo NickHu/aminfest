@@ -1,0 +1,39 @@
+name: Build and deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build and deploy
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build HTML with pandoc
+        uses: docker://pandoc/core
+        with:
+          args: >-
+            --standalone
+            --output=_site/index.html
+            index.md
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
