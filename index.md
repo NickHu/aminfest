@@ -53,7 +53,7 @@ The Call for Talks is now closed. Thank you to everyone who submitted!
 | Time        | Session                                             |
 |------------:|---------------------------------------------------------|
 | 10:30–11:30 | Nihil Shah                                          |
-| 11:30–12:00 | Ralph Serkis                                        |
+| 11:30–12:00 | Ralph Sarkis                                        |
 | 12:00–14:00 | 🍽 Lunch                                            |
 | 14:00–14:30 | Jack Liell Cock                                     |
 | 14:30–15:00 | Nick Hu                                             |
