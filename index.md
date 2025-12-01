@@ -38,7 +38,6 @@ We invite submissions for **short talks**. Possible topics include, but are not 
 
 **Format:** 15–30 minutes, followed by polite applause.  
 **Submission deadline:** Tuesday 2nd December 2025.  
-**How to submit:** Send a title to Zev.  
 
 Preparation is discouraged but not forbidden.
 Acceptance is essentially guaranteed and this is a great opportunity to elevate your academic profile!
@@ -91,8 +90,6 @@ Just turn up on the day, whenever you can make it! No registration fee.
 - [Jessica Richards](https://www.cs.ox.ac.uk/people/jessica.richards/), Department of Computer Science, University of Oxford
 - [Nick Hu](https://nickx.hu/), School of Computer Science, University of Birmingham
 - [Nihil Shah](https://www.cst.cam.ac.uk/people/nas54), Department of Computer Science and Technology, University of Cambridge
-
-For enquiries: <zev.shirazi@cs.ox.ac.uk>
 
 ---
 
