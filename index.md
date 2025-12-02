@@ -13,7 +13,7 @@ header-includes:
   ```
 ---
 **📅 Tuesday 2nd December 2025**  
-**📍 Venue:** Robert Hooke Building, Department of Computer Science, University of Oxford, UK
+**📍 Venue:** Lecture Theatre B, Wolfson Building, Department of Computer Science, University of Oxford, UK
 
 ---
 
